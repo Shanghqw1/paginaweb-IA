@@ -1,2 +1,4 @@
-# paginaweb-IA
-Mi primera pagina web con el bootcamt de DEFV y Becalos
+##Mi primera pagina web
+###Andamos aprendriendo 
+
+> - Mi proyecto es una pagina web HTML donde hablo de una empresa de productos sostenibles.
